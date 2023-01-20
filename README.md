@@ -19,11 +19,9 @@ The least accurate model was the Undersampling model, but by far the model with 
 * Naive Random Oversampling
 
 ![Naive_Random_Oversampling](Images/Naive_Random_Oversampling.png)
-
 * SMOTE Oversampling
 
 ![SMOTE_Oversampling](Images/SMOTE_Oversampling.png)
-
 * Undersampling
 
 ![Undersampling](Images/Undersampling.png)
