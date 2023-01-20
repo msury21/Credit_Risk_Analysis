@@ -17,16 +17,24 @@ The least accurate model was the Undersampling model, but by far the model with 
 
 ### Precision and Recall Score
 * Naive Random Oversampling
+
 ![Naive_Random_Oversampling](Images/Naive_Random_Oversampling.png)
+
 * SMOTE Oversampling
+
 ![SMOTE_Oversampling](Images/SMOTE_Oversampling.png)
+
 * Undersampling
+
 ![Undersampling](Images/Undersampling.png)
 * Combination (Over and Under) Sampling
+
 ![Combination_(Over_and_Under)_Sampling](Images/Combination_(Over_and_Under)_Sampling.png)
 * Balanced Random Forest Classifier
+
 ![Balanced_Random_Forest_Classifier](Images/Balanced_Random_Forest_Classifier.png)
 * Easy Ensemble AdaBoost Classifier
+
 ![Easy_Ensemble_AdaBoost_Classifier](Images/Easy_Ensemble_AdaBoost_Classifier.png)
 
 None of the models had above 0.1 precision for high risk loans, but the Easy Ensemble AdaBoost Classifier once again, was head and shoulders above the rest when it came to precision and recall.
