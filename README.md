@@ -13,6 +13,7 @@ These are the results of Naive Random Oversampling, SMOTE Oversampling, Undersam
 * 0.688 : Combination (Over and Under) Sampling
 * 0.789 : Balanced Random Forest Classifier
 * 0.932 : Easy Ensemble AdaBoost Classifier
+
 The least accurate model was the Undersampling model, but by far the model with the highest balanced accuracy score was the Easy Ensemble AdaBoost Classifier. Due to small fraction of high risk loans, however, it is best to not rely on the accuracy score and to examine the precision and recall scores.
 
 ### Precision and Recall Score
